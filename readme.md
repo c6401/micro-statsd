@@ -39,6 +39,6 @@ await client.async_gauge('my_gauge', 3)
 await client.async_set('my_set', 1)
 ```
 
-## Кun tests
+## Run tests
 To run tests simply install requirements-test.txt
 and run nosetests from project directory
